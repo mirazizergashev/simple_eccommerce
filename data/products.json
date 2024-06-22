@@ -1,5 +1,27 @@
 [
-    { "id": 1, "name": "Mahsulot 1", "price": 100 },
-    { "id": 2, "name": "Mahsulot 2", "price": 200 },
-    { "id": 3, "name": "Mahsulot 3", "price": 300 }
+  {
+    "id": 1,
+    "name": "Mahsulot 1",
+    "price": 100
+  },
+  {
+    "id": 2,
+    "name": "Mahsulot 2",
+    "price": 200
+  },
+  {
+    "id": 3,
+    "name": "Mahsulot 3",
+    "price": 300
+  },
+  {
+    "id": 4,
+    "name": "Lola",
+    "price": "2000"
+  },
+  {
+    "id": 5,
+    "name": "Liliya",
+    "price": "9000"
+  }
 ]

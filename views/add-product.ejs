@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Yangi Mahsulot Qo'shish</title>
+    <link rel="stylesheet" href="/style.css">
+</head>
+<body>
+    <h1>Yangi Mahsulot Qo'shish</h1>
+    <form action="/add-product" method="POST">
+        <div>
+            <label for="name">Mahsulot nomi:</label>
+            <input type="text" id="name" name="name" required>
+        </div>
+        <div>
+            <label for="price">Narxi:</label>
+            <input type="number" id="price" name="price" required>
+        </div>
+        <button type="submit">Qo'shish</button>
+    </form>
+    <a href="/products">Orqaga</a>
+</body>
+</html>
